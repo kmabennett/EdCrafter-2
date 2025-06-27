@@ -56,7 +56,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/tei/PP-Text-170370-D4v-D6r/f000.xml",
+								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/tei/transcription/f000.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -69,7 +69,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/html/PP-Text-170370-D4v-D6r/f000.html",
+								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/html/transcription/f000.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -171,7 +171,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/tei/PP-Text-170370-D4v-D6r/f002.xml",
+								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/tei/transcription/f002.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -184,7 +184,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/html/PP-Text-170370-D4v-D6r/f002.html",
+								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/html/transcription/f002.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -245,7 +245,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/tei/PP-Text-170370-D4v-D6r/f003.xml",
+								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/tei/transcription/f003.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -258,7 +258,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/html/PP-Text-170370-D4v-D6r/f003.html",
+								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/html/transcription/f003.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -360,7 +360,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/tei/PP-Text-170370-D4v-D6r/f005.xml",
+								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/tei/transcription/f005.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -373,7 +373,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/html/PP-Text-170370-D4v-D6r/f005.html",
+								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/html/transcription/f005.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -434,7 +434,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/tei/PP-Text-170370-D4v-D6r/f006.xml",
+								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/tei/transcription/f006.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -447,7 +447,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/html/PP-Text-170370-D4v-D6r/f006.html",
+								"id": "https://kmabennett.github.io/EdCrafter-2//passionateshep/html/transcription/f006.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"

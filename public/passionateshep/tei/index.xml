@@ -86,7 +86,7 @@
 			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F022331.tif"/>
 		</surface>
 	</facsimile>
-	<sourceDoc xml:id="PP-Text-170370-D4v-D6r">
+	<sourceDoc xml:id="transcription">
 		<surface facs="#f000">
 			<line>Passionate Pilgrim and Sonnets, 1599.</line>
 			<line>Lacks both title-page + other leaves-</line>
